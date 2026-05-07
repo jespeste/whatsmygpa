@@ -17,7 +17,6 @@ Quick steps to load this project as a temporary Firefox add-on:
 
 Notes:
 
-<<<<<<< HEAD
 - Temporary add-ons are not installed permanently — you need to reload after restarting Firefox.
 - If you make changes to the code, reload the add-on from the same page.
 
@@ -40,8 +39,3 @@ Notes:
 - Unlike Firefox, Chrome keeps the extension loaded after you restart the browser.
 - If you make changes to the code, go back to `chrome://extensions` and click the reload icon (↺) on the extension card.
 - You can disable or remove the extension at any time from `chrome://extensions`.
-=======
-- Temporary add-ons are not installed permanently.
-- If you make changes, reload the add-on from the same page.
-- Pass/Fail only classes are not yet accounted for in the total amount of credits
->>>>>>> baa43905ae0f9535f512edbd28b01a2800629c0a
